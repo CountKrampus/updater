@@ -14,4 +14,5 @@ data/Map002.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map
 
 <Version: 1.04>
 data/Map002.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map002.json
+data/Map003.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map003.json
 <End of Version>
