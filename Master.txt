@@ -6,3 +6,8 @@
 data/Map001.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map001.json
 data/Map002.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map002.json
 <End of Version>
+
+<Version: 1.03>
+data/Items.json https://github.com/CountKrampus/updater/blob/main/Items.json
+data/Map002.json https://raw.githubusercontent.com/CountKrampus/updater/main/Map002.json
+<End of Version>
