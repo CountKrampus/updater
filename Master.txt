@@ -2,6 +2,6 @@
 /data/test.zip https://wordpress.org/latest.zip
 <End of Version>
 
-<Version: 1.01>
+<Version: 1.02>
 /data/test2.zip https://resources.mybb.com/downloads/mybb_1838.zip
 <End of Version>
